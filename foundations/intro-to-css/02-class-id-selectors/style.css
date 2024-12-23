@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgba(241, 153, 137, 0.918);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondele {
+    color: blue;
+    font-size: 36px;
+}
+#thirdele {
+    font-size: 24px;
+}
+
+#fourthele {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
